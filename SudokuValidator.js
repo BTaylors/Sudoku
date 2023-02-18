@@ -97,7 +97,7 @@ for (let i = 1; i <= arr.length; i++) {
     for(let i = 0; i < check.length; i++) {
         if(!includes1to9(check[i])) 
      {return false; }
-        }
+        
         
      return true;
     }
